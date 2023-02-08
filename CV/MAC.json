@@ -157,6 +157,59 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Superior Administración de Sistemas Informáticos",
+        "startDate": "2003-10-01",
+        "finishDate": "2005-06-01",
+        "institution": {
+          "name": "IES A. Cotarelo Valledor",
+          "description": "Ciclo Superior Administración de Sistemas Informáticos, en IES A. Cotarelo Valledor, en Vilagarcía de Arousa (PO)."
+        },
+        "linkedCompetences": [
+          {
+            "name": "Apache",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PHPMyAdmin",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
