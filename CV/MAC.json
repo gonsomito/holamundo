@@ -31,6 +31,58 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Imaxina Novas Tecnoloxías",
+          "image": {
+            "alt": "logo-imaxina-300x50.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/08/caf5afcc-3d15-40ff-9b95-efb672dedbff_logo-imaxina-300x50.png"
+          },
+          "URL": "https://e-imaxina.com"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar programador",
+            "startDate": "2006-11-01",
+            "finishDate": "2007-03-01",
+            "challenges": [
+              {
+                "description": "Auxiliar programador, en Imaxina Novas Tecnoloxías, O Grove\no Ayudar en el maquetado, edición y control de calidad de las publicaciones.\no Asistir en la programación y diseño de recursos propios.\no Codirigir proyecto de diseño, maquetación y edición para cliente final."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Creative Suite",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe InDesign",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Corel Draw",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
