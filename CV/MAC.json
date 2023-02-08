@@ -35,6 +35,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "ClickVilanova Informática"
+        },
+        "roles": [
+          {
+            "name": "Fundador de ClickVilanova Informática",
+            "startDate": "2012-08-01",
+            "finishDate": "2016-10-01",
+            "challenges": [
+              {
+                "description": "Fundador de ClickVilanova Informática, en Vilanova de Arousa.\no Dar soporte técnico y evaluar las necesidades de los clientes.\no Gestionar las compras e investigar los mercados para optimizar la oferta.\no Controlar la entrada, reparación y salida de equipos de taller.\no Montaje de redes locales para la PyME y usuarios domésticos.\no Desarrollar páginas web en entornos CMS y eCommerce y creación de manuales de soporte."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Magento",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Concello de Vilanova de Arousa",
           "image": {
             "alt": "concellovilanova.jpg",
