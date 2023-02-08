@@ -35,6 +35,86 @@
     "jobs": [
       {
         "organization": {
+          "name": "Concello de Vilanova de Arousa",
+          "image": {
+            "alt": "concellovilanova.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/08/6898de55-24c6-48d6-b451-4a4bfd8a2ab8_concellovilanova.jpg"
+          },
+          "URL": "http://www.vilanovadearousa.com/"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar programador",
+            "startDate": "2009-01-01",
+            "finishDate": "2011-05-01",
+            "challenges": [
+              {
+                "description": "Auxiliar programador, en Concello de Vilanova de Arousa \no Programar aplicaciones de gestión y control para diferentes departamentos.\no Gestionar bases de datos, backups y administración de CMS corporativos.\no Diseñar la cartelería de eventos y creación y catalogación del banco de recursos digitales.\no Impartir formación para empleados y usuarios de las instalaciones."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Creative Suite",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Corel Draw",
+                "type": "technology"
+              },
+              {
+                "name": "Joomla",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Unix",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Imaxina Novas Tecnoloxías",
           "image": {
             "alt": "logo-imaxina-300x50.png",
