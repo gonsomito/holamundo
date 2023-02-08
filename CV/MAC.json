@@ -129,6 +129,76 @@
         }
       ]
     },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Adobe Dreamweaver",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe InDesign",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        },
+        {
+          "name": "BI",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Corel Draw",
+          "type": "technology"
+        },
+        {
+          "name": "Drupal",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "Magento",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Administration",
+        "Brand Design",
+        "Frontend Developer",
+        "Graphic & Motion Design",
+        "IT Manager",
+        "Layout Designer / Maquetación",
+        "Product Analyst",
+        "QA & Testing Engineer"
+      ]
+    },
     "status": "openToOffers"
   }
 }
