@@ -180,6 +180,43 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Técnico Auxiliar de Diseño Gráfico",
+        "startDate": "2006-03-01",
+        "finishDate": "2006-12-01",
+        "institution": {
+          "name": "Xunta de Galicia",
+          "description": "Técnico Auxiliar de Diseño Gráfico (630h). \nPlan de Emprego de Xunta de Galicia e impartido por en Concello de Vilanova de Arousa."
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Creative Suite",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Dreamweaver",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Illustrator",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe InDesign",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Photoshop",
+            "type": "technology"
+          },
+          {
+            "name": "Corel Draw",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ciclo Superior Administración de Sistemas Informáticos",
