@@ -227,25 +227,25 @@
       },
       {
         "skill": {
-          "name": "Adobe Illustrator",
+          "name": "C++",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Corel Draw",
+          "name": "Adobe InDesign",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Adobe Photoshop",
+          "name": "Adobe Creative Suite",
           "type": "technology"
         }
       },
@@ -257,19 +257,31 @@
       },
       {
         "skill": {
-          "name": "C++",
+          "name": "Drupal",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "Linux",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Adobe InDesign",
+          "name": "Microsoft Access",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Corel Draw",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
           "type": "technology"
         }
       },
@@ -287,13 +299,55 @@
       },
       {
         "skill": {
-          "name": "Drupal",
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
           "type": "technology"
         }
       }
