@@ -1,0 +1,134 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "ÁNGEL",
+      "surnames": "JUEGUEN LEIS",
+      "title": "Técnico de DAI & SAI en modo ruedines.",
+      "description": "Administrador de sistemas y desarrollador web en entornos CMS, HTML y CSS. \nCuento con más de 7 años de experiencia gestionando y reparando redes y equipos e implementando herramientas que consoliden la transición tecnológica en PyME.\nSigo buscando como ampliar mis conocimientos en un campo en constante evolución y poner mis habilidades creativas al servicio del entorno de trabajo.",
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Villanueva de Arosa",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/gonsomito"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/gonsomito"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/angeljueguenleis/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Corel Draw",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Dreamweaver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe InDesign",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Joomla",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Drupal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/angeljueguenleis/"
+        }
+      ]
+    },
+    "status": "openToOffers"
+  }
+}
