@@ -383,7 +383,11 @@
         "finishDate": "2008-12-01",
         "institution": {
           "name": "IES Chan do Monte",
-          "description": "Ciclo Superior Desarrollo Aplicaciones Informáticas, en IES Chan do Monte, en Marín (PO).\nBeca Leonardo para la realización de prácticas complementarias en el extranjero.\n"
+          "description": "Ciclo Superior Desarrollo Aplicaciones Informáticas, en IES Chan do Monte, en Marín (PO).\nBeca Leonardo para la realización de prácticas complementarias en el extranjero.\n",
+          "image": {
+            "alt": "daw1_pamont.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/08/f0aa8f2a-4931-4635-a949-b2a4574d1d18_daw1_pamont.jpg"
+          }
         },
         "linkedCompetences": [
           {
