@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Villanueva de Arosa"
+        "municipality": "Villanueva de Arosa",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -245,10 +246,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -630,6 +633,7 @@
         "Product Analyst",
         "QA & Testing Engineer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
