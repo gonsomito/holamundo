@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Galicia",
-        "municipality": "Villanueva de Arosa",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Villanueva de Arosa"
       }
     },
     "relevantLinks": [
@@ -209,17 +208,47 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Vilanova no Tempo",
+          "description": "Durante años, la Asociación Ansuiña (Vilanova de Arousa) recuperó una buena cantidad de fotos antiguas de la localidad. En la primavera de 2007, coordiné la edición del libro que se publicaría en junio del mismo año.\nISBN 978-84-611-8005-9",
+          "URL": "https://www.instagram.com/vilanovanotempo/",
+          "image": {
+            "alt": "375051529.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/08/d3b25f90-3eab-4125-bc51-f17ebcab544c_375051529.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2007-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Adobe Illustrator",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe InDesign",
+            "type": "technology"
+          },
+          {
+            "name": "Adobe Photoshop",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Libro"
+        ]
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
+        "name": "Galician"
       }
     ],
     "hardSkills": [
@@ -601,7 +630,6 @@
         "Product Analyst",
         "QA & Testing Engineer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
