@@ -465,7 +465,11 @@
         "finishDate": "2005-06-01",
         "institution": {
           "name": "IES A. Cotarelo Valledor",
-          "description": "Ciclo Superior Administración de Sistemas Informáticos, en IES A. Cotarelo Valledor, en Vilagarcía de Arousa (PO)."
+          "description": "Ciclo Superior Administración de Sistemas Informáticos, en IES A. Cotarelo Valledor, en Vilagarcía de Arousa (PO).",
+          "image": {
+            "alt": "136460936_fb-link.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/08/c5a07bf3-b890-4e4f-a48c-d78e08e2ce65_136460936_fb-link.jpg"
+          }
         },
         "linkedCompetences": [
           {
