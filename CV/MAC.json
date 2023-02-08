@@ -122,6 +122,27 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Técnico de Seguridad de Redes y Sistemas ",
+        "startDate": "2010-11-01",
+        "finishDate": "2011-04-01",
+        "institution": {
+          "name": "Xunta de Galicia",
+          "description": "Técnico de Seguridad de Redes y Sistemas (420h). \nA través del Plan de Emprego de Xunta de Galicia e impartido por el Consorcio Empresarios de A Coruña."
+        },
+        "linkedCompetences": [
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Unix",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ciclo Superior Desarrollo Aplicaciones Informáticas",
