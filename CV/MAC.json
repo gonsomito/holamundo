@@ -37,12 +37,12 @@
     ],
     "interestingFacts": [
       {
-        "topic": "El arte de cocinar y la algarabía del Comer",
+        "topic": "El arte de cocinar y del Comer",
         "fact": "Cocinar es como la programación secuencial. Preparar y seguir una serie de pasos que culminan en un plato.\nSobre el tema se ha escrito mucho, desde Julio Camba  hasta Arguiñano. Mi frase de cabecera es _\"No entiendo la vida, pero sigo aquí porque me gusta comer\"_.\nSuelo recomendar la serie \"Cooked\", del escritor culinario Michael Pollan para Netflix."
       },
       {
         "topic": "RaspBerry Pi como banco de pruebas.",
-        "fact": "Cuando llegó a mis manos una RasPi, caí enamorado. \nMe hice con una para trastear, pero pronto descubrí su potencial: ervidor web, videovigilancia, emulador... y un largo etcétera con el que pasé una buena cantidad de horas."
+        "fact": "Cuando llegó a mis manos una RasPi, caí prendado. \nMe hice con una para trastear, pero pronto descubrí su potencial: servidor web, videovigilancia, estación meteorológica, emulador... y un buen número de proyectos en el que aumentar la curiosidad y mejorar las habilidades tecnológicas."
       }
     ]
   },
