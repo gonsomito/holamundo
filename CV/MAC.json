@@ -50,11 +50,16 @@
     "jobs": [
       {
         "organization": {
-          "name": "ClickVilanova Informática"
+          "name": "ClickVilanova Informática",
+          "image": {
+            "alt": "logoCLICK.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/67634c41-401d-41be-a4dc-e6b540ecadec_logoclick.png"
+          },
+          "URL": "http://clickvilanova.site44.com/"
         },
         "roles": [
           {
-            "name": "Fundador de ClickVilanova Informática",
+            "name": "Manager en ClickVilanova Informática",
             "startDate": "2012-08-01",
             "finishDate": "2016-10-01",
             "challenges": [
@@ -173,6 +178,106 @@
       },
       {
         "organization": {
+          "name": "TourAmerica.ie",
+          "image": {
+            "alt": "yOXz7hqA_400x400.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/8d9d3cd7-7e36-4634-b871-558385a73652_yoxz7hqa_400x400.jpg"
+          },
+          "URL": "https://www.touramerica.ie/"
+        },
+        "roles": [
+          {
+            "name": "Beca Leonardo",
+            "startDate": "2008-10-01",
+            "finishDate": "2008-11-01",
+            "challenges": [
+              {
+                "description": "He disfrutado de una Beca Leonardo para la realización de prácticas complementarias en el extranjero, concretamente en la empresa TourAmerica.ie, en Dublín. \nConseguimos, junto a o otro becado, optimizar y automatizar la gestión de usuarios, mejorando también el control de servidores y backups. \nEn mi caso también proporcionaba soporte, montaje y reparación de los equipos al departamento de ventas. \nUna aventura corta, pero en la que he aprendido mucho."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Corel Draw",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": " Discalis Soluciones S.L.",
+          "image": {
+            "alt": "Sin título.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/bf0caf70-4934-4b9e-9595-d15be4e50915_sin-titulo.png"
+          },
+          "URL": "http://www.discalis.com/"
+        },
+        "roles": [
+          {
+            "name": "Prácticas fin de Ciclo",
+            "startDate": "2008-10-01",
+            "finishDate": "2008-11-01",
+            "challenges": [
+              {
+                "description": "Para terminar las prácticas del CS Desarrollo de Aplicaciónes Informáticas, estuve en Discalis Soluciones algo más de un mes. Durante esta breve estancia, mis labores fueron las de plataformar equipos para ajustar al entorno de desarrollo, adecuando los sistemas a entornos CMS. También ayudé en con los test de la intranet que estaba en fase de desarrollo, realizando test de validación, instalación y formato.\nPor último, la configuración de dos portales, en Joomla y WordPress, para comenzar la fase de maquetado para el cliente final, realizando ajuste y propuestas en entorno de desarrollo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "CMS",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Joomla",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Imaxina Novas Tecnoloxías",
           "image": {
             "alt": "logo-imaxina-300x50.png",
@@ -267,79 +372,19 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Joomla",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Illustrator",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Windows",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe InDesign",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Drupal",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Corel Draw",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Dreamweaver",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
           "type": "technology"
         }
       },
@@ -351,7 +396,85 @@
       },
       {
         "skill": {
-          "name": "Adobe Photoshop",
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Creative Suite",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Access",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Drupal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe InDesign",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -369,25 +492,7 @@
       },
       {
         "skill": {
-          "name": "Adobe Creative Suite",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Dreamweaver",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Access",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
+          "name": "Windows",
           "type": "technology"
         }
       },
@@ -399,7 +504,13 @@
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Joomla",
           "type": "technology"
         }
       }
